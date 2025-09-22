@@ -1,5 +1,7 @@
 package abstraction;
 
+import abstraction.Person;
+import abstraction.Student;
 import inheritance.ClassicCustomer;
 import inheritance.Customer;
 
