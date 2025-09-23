@@ -17,6 +17,7 @@ public class TryWithResDemo {
 		}
 //		catch(ArithmeticException e) {
 //			System.out.println(e);
+		
 //		}
 	}
 }
